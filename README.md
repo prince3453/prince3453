@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 **Princekumar Ghoghari**
 - **Contact:** +1 514-583-0495 | princeghoghari3453@gmail.com
-- **LinkedIn:** [LinkedIn Profile](#) | **GitHub:** [GitHub Profile](#)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/prince3453/) | **GitHub:** [GitHub Profile](https://github.com/prince3453)
 
 **Education**
 - **Master of Applied Computer Science**, Concordia University, Montreal, QC (Aug. 2022 - April 2024)
