@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **prince3453/prince3453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
