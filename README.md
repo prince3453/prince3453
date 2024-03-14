@@ -1,5 +1,5 @@
 <!--
-**prince3453/prince3453** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**prince3453/prince3453** is a  _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,20 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Princekumar Ghoghari
+# Princekumar Ghoghari 📫
 - **Contact:** +1 514-583-0495 | princeghoghari3453@gmail.com
 - **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/prince3453/) | **GitHub:** [GitHub Profile](https://github.com/prince3453)
 
-# Education
+# Education ✨
 - **Master of Applied Computer Science**, Concordia University, Montreal, QC (Aug. 2022 - April 2024)
 - **Bachelor of Engineering in Information Technology**, Sarvajanik College of Engineering & Technology, Surat, Gujarat (Aug. 2016 - May 2020)
 
-# Experience
+# Experience ⚡⚡⚡
 - **Business Intelligence Developer - Intern**, Genetec Inc., Montreal, QC, Canada (May 2023 - August 2023)
 - **Data Scientist**, NEU Infotech, Surat, GJ (Apr. 2021 - Jul. 2022)
 - **Python Developer**, Vrundev Infotech, Surat, GJ (March 2020 - March 2021)
 
-# Technical Skills
+# Technical Skills 🔭
 - **Languages:** Python, SQL, DAX, JavaScript, HTML/CSS, ReactJS, Django, MongoDB
 - **Data Visualization Tools:** Power BI, Tableau
 - **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, TensorFlow, Keras
